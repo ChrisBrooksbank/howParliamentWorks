@@ -5,6 +5,6 @@
 * [Question Time](questiontime.md)
 * [Urgent Questions](urgentquestions.md)
 * [Debates](debates.md)
-* [Divisions](divsions.md)
+* [Divisions](divisions.md)
 * [Early day motions](earlydaymotions.md)
 * [Written questions and answers](writtenquestionsandanswers.md)

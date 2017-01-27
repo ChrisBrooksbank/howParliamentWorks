@@ -1,15 +1,12 @@
 # Divisions
 
-
-[More information](http://www.parliament.uk/about/how/business/divisions/)
-
+[More information : Brief from Parliament website](http://www.parliament.uk/about/how/business/divisions/)
+[More information : Detailed from background paper](http://researchbriefings.files.parliament.uk/documents/SN06401/SN06401.pdf)
 
 When a vote is held in the Commons it is the Speaker who asks members to call out whether they agree or not. 
 In the Lords it is the Lord Speaker who performs this task.
 
-
 The Speaker or Lord Speaker then judges if there is a clear result.
-
 
 If the result is not clear then the Speaker or Lord Speaker calls a division by announcing "clear the lobbies" ( Commons ) or "clear the bar" ( Lords )
 
@@ -74,8 +71,4 @@ This records the way in which members voted and is available to the public in Ha
 ## Commons Library briefings
 The House of Commons Library produces briefing papers to inform MPs and their staff of key issues. The papers contain factual information and a range of opinions on each subject, and aim to be politically impartial.
 
-## More Information
 
-Provisions exist for what must happen if a vote is tied, for the quorum required for a vote, how pecuniary interests must be handled, and how Members may record an abstention. There have also been systems of ‘pairing’, organised between political parties, to allow Government party Members ‘time off’ from voting in exchange for a Member from the Opposition also being absent.
-
-[Here is PDF with further information](http://researchbriefings.files.parliament.uk/documents/SN06401/SN06401.pdf)
