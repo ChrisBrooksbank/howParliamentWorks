@@ -1,10 +1,10 @@
-http://www.parliament.uk/about/how/business/
+[How Parliament Works](http://www.parliament.uk/about/how/business/)
 
-Daily business
-Prayers
-Question Time
-Urgent Questions
-Debates
-Divisions
-What are Early day motions?
-Written questions and answers
+[Daily business](dailybusiness.md)
+[Prayers](prayers.md)
+[Question Time](questiontime.md)
+[Urgent Questions](urgentquestions.md)
+[Debates](debates.md)
+[Divisions](divsions.md)
+[Early day motions](earlydaymotions.md)
+[Written questions and answers](writtenquestionsandanswers.md)
