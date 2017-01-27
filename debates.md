@@ -1,6 +1,7 @@
 # Debates
 
 [More information](http://www.parliament.uk/about/how/role/debate/)
+
 [Video](https://www.youtube.com/watch?time_continue=6&v=9vsv32GhQ2s)
 
 Both houses hold debates.

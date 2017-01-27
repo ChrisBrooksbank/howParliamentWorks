@@ -1,6 +1,7 @@
 # Divisions
 
 [More information : Brief from Parliament website](http://www.parliament.uk/about/how/business/divisions/)
+
 [More information : Detailed from background paper](http://researchbriefings.files.parliament.uk/documents/SN06401/SN06401.pdf)
 
 When a vote is held in the Commons it is the Speaker who asks members to call out whether they agree or not. 
