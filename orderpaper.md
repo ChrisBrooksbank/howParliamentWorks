@@ -1,0 +1,3 @@
+The Order Paper, also known as the Order of Business, in the House of Commons is published each sitting day and lists the business of the House and business for sittings in Westminster Hall. It shows items such as questions, motions, business, notices of committees, announcements and lists of future business.
+
+In the House of Lords the business papers, including the Order Paper, are collectively known as 'House of Lords Business'.

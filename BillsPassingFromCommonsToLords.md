@@ -32,3 +32,5 @@ Ping pong can then happen. Compromises are made until agreement made.
 Then Speaker and Lord speaker stand up and announce bill has recieved Royal Ascent.
 
 Final copy is printed and sent to Parliamentary archives which is the official record.
+
+[Click for Bills currently before parliament](http://services.parliament.uk/bills/)
