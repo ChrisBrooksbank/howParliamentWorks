@@ -33,4 +33,6 @@ Then Speaker and Lord speaker stand up and announce bill has recieved Royal Asce
 
 Final copy is printed and sent to Parliamentary archives which is the official record.
 
+[Guide to passage of bills](http://www.parliament.uk/about/how/laws/passage-bill/)
+
 [Click for Bills currently before parliament](http://services.parliament.uk/bills/)
