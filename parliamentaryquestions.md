@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #What is a parliamentary question
 
 A Parliamentary Question allows Members of Parliament to hold the Government to account using either oral questions to Ministers in the Chamber of the House of Commons or written questions.  
