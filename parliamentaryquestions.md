@@ -5,6 +5,8 @@ A Parliamentary Question allows Members of Parliament to hold the Government to 
 
 Ministers are obliged to provide answers to these questions.
 
+[BriefGuide-PDF](http://www.parliament.uk/documents/commons-information-office/Brief-Guides/Parliamentary-Questions.pdf)
+
 ##Oral Questions 
 
  Each day in the Chamber (Monday to Thursday) starts with an oral question time. Departments answer on the basis of a rota which can be found on the Table Office intranet page, each one roughly once every five weeks. There is a limit to how many questions can be answered at each question time, so Members’ questions are entered into a ballot, known as the shuffle, to decide who can ask a question.
