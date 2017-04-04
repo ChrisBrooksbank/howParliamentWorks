@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Certain documents are required to be laid before (presented to) Parliament. These include most statutory instruments, House Papers and Command Papers as well as the reports of certain statutory bodies. 
 
 In the Commons, once a paper has been laid before the House it will appear in the appendix to the Votes and Proceedings. In the Lords, it will appear in the Minutes of Proceedings.
