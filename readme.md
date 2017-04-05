@@ -1,5 +1,7 @@
 [How Parliament Works](http://www.parliament.uk/about/how/business/)
 
+* [Glossary](glossary.md)
+
 * [Daily business](dailybusiness.md)
 * [Prayers](prayers.md)
 * [Question Time](questiontime.md)
