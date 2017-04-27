@@ -1,0 +1,7 @@
+# Delegated Legislation
+
+https://www.publications.parliament.uk/pa/ld/ldcomp/ldctso37.htm
+
+Negative instruments
+
+9.17  Negative procedure is the most common form of parliamentary control over delegated legislation. The parent Act provides that instruments made under it take effect either immediately or on a specified future day but are subject to annulment in pursuance of a resolution of either House adopted within a specified time limit. A resolution to reject a negative instrument takes the form of a motion praying Her Majesty that the instrument be annulled.[413] Since 1948 the period during which a negative resolution may be moved ("praying time") has been 40 days in respect of either the negative procedure for annulment or the negative procedure for preventing further proceedings in the case of a draft instrument. Swearing-in days in either House[414] and days on which the House of Lords sits for judicial business only (unless such days are during prorogation) are included in the reckoning of the 40 days, but periods of dissolution, prorogation or adjournment of both Houses for more than four days are not. Praying time in respect of an instrument laid during the recess does not therefore begin to run until one of the Houses sits.
