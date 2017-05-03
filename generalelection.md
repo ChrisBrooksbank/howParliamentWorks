@@ -25,3 +25,5 @@ The Prime Minister is appointed by the Queen, who is guided by [constitutional c
 [The Cabinet Manual](https://www.gov.uk/government/publications/cabinet-manual) sets out the main laws, rules and conventions affecting the conduct and operation of government, including the role of the Sovereign.
 
 [More information on general elections](http://www.parliament.uk/topics/General-elections.htm)
+
+[Monitoring running of elections](file:///C:/Users/brooksbankc/Downloads/CPA%20UK%20EAM%20FINAL%20REPORT.pdf)
